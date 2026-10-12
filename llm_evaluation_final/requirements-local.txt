@@ -1,0 +1,4 @@
+transformers>=4.45
+accelerate>=0.34
+torch
+PyYAML
